@@ -1,0 +1,3 @@
+[tool.pyright]
+venv = "sorting-visualizer"
+venvPath = "/home/rrentea/.pyenv/versions"
